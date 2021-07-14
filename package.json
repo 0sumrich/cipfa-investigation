@@ -5,15 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0sumrich/google-mobility.git"
+    "url": "git+https://github.com/0sumrich/cipfa-investigation.git.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/0sumrich/google-mobility/issues"
-  },
-  "homepage": "https://0sumrich.github.io/google-mobility",
+  "homepage": "https://0sumrich.github.io/cipfa-investigation",
   "devDependencies": {
     "css-loader": "^5.2.6",
     "css-minimizer-webpack-plugin": "^3.0.2",
