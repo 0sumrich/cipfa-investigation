@@ -2,8 +2,11 @@ main {
     margin-top: 4rem;
 }
 
-svg {
+#chart {
     background-color: white;
+}
+
+.chart-container, #chart {
     border-radius: 5px;
     border: 1px solid #e5e5e5;
 }
@@ -20,4 +23,10 @@ svg {
     border: 0px;
     border-radius: 8px;
     pointer-events: none;
+}
+
+.chart-container {
+    padding: 1.5rem;
+    margin: 3rem auto;
+    width: 100%;
 }

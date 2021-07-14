@@ -40,6 +40,7 @@
     "d3-selection": "^3.0.0",
     "d3-shape": "^3.0.1",
     "materialize-css": "^1.0.0",
+    "plotly.js-dist-min": "^2.2.1",
     "trendline": "^0.3.1"
   }
 }
